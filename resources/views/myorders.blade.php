@@ -1,5 +1,6 @@
 @extends('master')
 @section("content")
+
 <div class="custom-product">
      <div class="col-sm-10">
         <div class="trending-wrapper">
@@ -28,4 +29,5 @@
 
      </div>
 </div>
+
 @endsection 

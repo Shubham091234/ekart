@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Product;
+use App\Models\Product2;
 use App\Models\Cart;
 use App\Models\Order;
 use Session;
@@ -19,6 +20,7 @@ class ProductController extends Controller
         $data=product::all();
         return view('product',['products'=>$data]);
     }
+    
 
     function detail($id)
     {

@@ -52,6 +52,7 @@ height: 100px;
     .trending-item{
         float: left;
         width: 20%;
+        margin: 2%;
     }
 
     .trending-wrapper{
@@ -79,7 +80,7 @@ height: 100px;
 
     }
 
-    .searched-image{ height: 250px;
+    .searched-image{ height: 150px;
 
     }
 

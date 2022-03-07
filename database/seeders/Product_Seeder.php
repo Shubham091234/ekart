@@ -17,45 +17,45 @@ class Product_Seeder extends Seeder
         //
         DB::table('products')->insert([
             [
-             'name'=>'Maruti Suzuki',
-             'price'=>"34000$",
-             'description'=>'Electrionic car',
-             'category'=>'cars',
-             'gallery'=>'https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/7047/1644833069550/front-left-side-47.jpg?tr=w-456'
-            ],
- 
-            [
-             'name'=>'Sony Headphone',
-             'price'=>"30$",
-             'description'=>'High bass headphones',
-             'category'=>'Audio',
-             'gallery'=>'https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/7047/1644833069550/front-left-side-47.jpg?tr=w-456'
-            ],
-
-            [
-             'name'=>'HP Laptop',
-             'price'=>"231$",
-             'description'=>'8Gb SSD Ram with touch',
-             'category'=>'Laptops',
-             'gallery'=>'https://rukminim1.flixcart.com/image/416/416/kzfvzww0/computer/r/g/i/hp-laptop-15s-eq2144au-amd-ryzen-5-5500u-8gb-ddr4-512-gb-pcie-original-imagbg5jctdf4xwf.jpeg?q=70'
-            ],
-            [
-                'name'=>'Maruti Suzuki',
-                'price'=>"34000$",
-                'description'=>'Electrionic car',
-                'category'=>'cars',
-                'gallery'=>'https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/7047/1644833069550/front-left-side-47.jpg?tr=w-456'
+                'name'=>'Boat Headphones',
+                'price'=>"100$",
+                'description'=>'Super Bass Headphones',
+                'category'=>'Sounds',
+                'gallery'=>'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FBoat-Rockerz-400-Bluetooth-Headphones%2Fdp%2FB01J82IYLW&psig=AOvVaw2_EE_-KOadnya1_gh-dkju&ust=1646770480418000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNChiKLotPYCFQAAAAAdAAAAABAD',
                ],
- 
-            [
-             'name'=>'MI TV',
-             'price'=>"800$",
-             'description'=>'Slimmest TV ever',
-             'category'=>'Television',
-             'gallery'=>'https://rukminim1.flixcart.com/image/416/416/kihqz680/television/j/y/m/infinix-32x1-original-imafya2wwks6cvqz.jpeg?q=70'
-            ]
-             
-         ]);
-     
-    }
-}
+    
+               [
+               'name'=>'Nikon Camera',
+               'price'=>"200$",
+               'description'=>'Ultra HD Camera',
+               'category'=>'Photos',
+               'gallery'=>'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techradar.com%2Fin%2Fnews%2Fbest-full-frame-camera&psig=AOvVaw0tT1bJDib7PFu08rTM6-5a&ust=1646770163444000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCSvozntPYCFQAAAAAdAAAAABAD'
+            
+               ],
+               [
+                   'name'=>'Puma T-Shirt',
+                   'price'=>"20$",
+                   'description'=>'Branded Soft and comfy T-shirt',
+                   'category'=>'clothes',
+                   'gallery'=>'https://in.puma.com/in/en/pd/italia-graphic-winner-mens-t-shirt/769990.html?dwvar_769990_color=01#',
+                  ],
+                  [
+                   'name'=>'I-Phone mini',
+                   'price'=>"300$",
+                   'description'=>'Secured and safe Phone',
+                   'category'=>'Phones',
+                   'gallery'=>'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vodafone.co.uk%2Fmobile%2Fbest-for%2Fsmall-phones&psig=AOvVaw2LrwyxzjrI3v_tcnfbv22_&ust=1646770611427000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDs0uTotPYCFQAAAAAdAAAAABAD'
+                  ],
+                  [
+                   'name'=>'Skybags',
+                   'price'=>"50$",
+                   'description'=>'Heavy Duty bag',
+                   'category'=>'Bags',
+                   'gallery'=>'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.skybags.co.in%2F&psig=AOvVaw0DfhIe0q_wDstwBGDWu8qx&ust=1646770689612000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiKx4PptPYCFQAAAAAdAAAAABAD'
+                  ],
+           ]);
+        
+       }
+       }
+   
+   

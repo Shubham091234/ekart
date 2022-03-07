@@ -3,7 +3,7 @@
 <div class="custom-product">
 
    <div class="col-sm-1">
-         <a href="">Filter</a>
+         <a href="">Filter</a><br><br>
         </div>
         <div class="col-sm-4">
         <div class="trending-wrapper">
