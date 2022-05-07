@@ -53,6 +53,10 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Code of Conduct
 
+
+https://user-images.githubusercontent.com/63342647/167248772-cf8ad679-8231-433d-807d-e8b5c733d512.mp4
+
+
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
